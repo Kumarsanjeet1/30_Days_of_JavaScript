@@ -1,6 +1,6 @@
 # 30_Days_of_JavaScript
 
-
+![Frontend Banner (500 × 400 px) (500 × 1000 px)](https://github.com/Kumarsanjeet1/30_Days_of_JavaScript/blob/main/javascript.png)
 
 :open_book:  Repository configs my learning and journey of 30 days in JAVASCRIPT.
 
