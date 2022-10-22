@@ -11,33 +11,33 @@
 ##  Progress   
 
 
--  [ ]   `1`
--  [ ]   `2` 
--  [ ]   `3`
--  [ ]   `4`
--  [ ]   `5`
--  [ ]   `6`
--  [ ]   `7`
--  [ ]   `8`
--  [ ]   `9`
--  [ ]   `10`
--  [ ]   `11`
--  [ ]   `12`
--  [ ]   `13`
--  [ ]   `14`
--  [ ]   `15`
--  [ ]   `16`
--  [ ]   `17`
--  [ ]   `18`
--  [ ]   `19`
--  [ ]   `20`
--  [ ]   `21`
--  [ ]   `22`
--  [ ]   `23`
--  [ ]   `24`
--  [ ]   `25`
--  [ ]   `26`
--  [ ]   `27`
--  [ ]   `28`
--  [ ]   `29`
--  [ ]   `30`
+-  [ ]   `1` [Introduction]()
+-  [ ]   `2` [Data Types]()
+-  [ ]   `3` [Booleans, Operators,Date]()
+-  [ ]   `4` [Conditionals]()
+-  [ ]   `5` [Arrarys]()
+-  [ ]   `6` [Loops]()
+-  [ ]   `7` [Functions]()
+-  [ ]   `8` [Objects]()
+-  [ ]   `9` [Higher Order Functions]()
+-  [ ]   `10` [Sets and Maps]()
+-  [ ]   `11` [Destructuring and Spreading]()
+-  [ ]   `12` [Regular Expressions]()
+-  [ ]   `13` [Console Object Methods]()
+-  [ ]   `14` [Error Handling]()
+-  [ ]   `15` [Classes]()
+-  [ ]   `16` [JSON]()
+-  [ ]   `17` [Web Storages]()
+-  [ ]   `18` [promises]()
+-  [ ]   `19` [Closer]()
+-  [ ]   `20` [Writing Clean Code]()
+-  [ ]   `21` [DOM]()
+-  [ ]   `22` [Manipulating DOM Object]()
+-  [ ]   `23` [Event Listeners]()
+-  [ ]   `24` [Mini Project: Solar System]()
+-  [ ]   `25` [Mini Project: World Countries Data Visualization 1]()
+-  [ ]   `26` [Mini Project: World Countries Data Visualization 2]()
+-  [ ]   `27` [Mini Project: Portfolio]()
+-  [ ]   `28` [Mini Project: Leaderboard]()
+-  [ ]   `29` [Mini Project: Animating Characters ]()
+-  [ ]   `30` [Final Projects]()
